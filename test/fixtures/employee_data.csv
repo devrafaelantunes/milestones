@@ -1,0 +1,4 @@
+employee_id,first_name,last_name,hire_date,supervisor_id
+sfrost205,Seema,Frost,1995-01-29,ballison200
+tbriggs201,Tanya,Briggs,2007-12-10,ballison200
+drutledge166,Dayle,Rutledge,1993-01-25,jbrady157
